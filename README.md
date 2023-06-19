@@ -1,8 +1,8 @@
 # [Material Dashboard 2 React Laravel JSON:API](https://react-material-dashboard-laravel.creative-tim.com/?ref=readme-mdr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20%20PRO%20React%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Freact-material-dashboard-laravel)
 
-![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/react-material-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/react-material-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/686/original/react-material-dashboard-laravel.jpg?1664783836" />](https://www.creative-tim.com/product/react-material-dashboard-laravel)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/686/original/react-material-dashboard-laravel.jpg?1664783836" />](https://www.creative-tim.com/product/material-dashboard-react-laravel)
 
 **Documentation built by Developers**
 
@@ -20,7 +20,7 @@ View [example pages here](https://react-material-dashboard-laravel.creative-tim.
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/react-material-dashboard-laravel)
+- View [Github Repository](https://github.com/creativetimofficial/material-dashboard-react-laravel)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
@@ -34,7 +34,7 @@ During the development of this dashboard, we have used many existing resources f
 Let us know your thoughts below. And good luck with development!
 
 
-If you want to get more features, go PRO with [Material Dashboard 2 PRO React Laravel JSON:API](https://www.creative-tim.com/product/react-material-dashboard-pro-laravel).
+If you want to get more features, go PRO with [Material Dashboard 2 PRO React Laravel JSON:API](https://www.creative-tim.com/product/material-dashboard-pro-react-laravel).
 
 ## Table of Contents
 
@@ -58,7 +58,7 @@ If you want to get more features, go PRO with [Material Dashboard 2 PRO React La
 ## Versions
 
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=readme-mdpr)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/react-material-dashboard-laravel?ref=readme-mdpr)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react-laravel?ref=readme-mdpr)
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react-nodejs?ref=readme-mdpr)
 
 | React + Laravel JSON:API                                                                                                                                                                                                                                                   | React + NodeJS                                                                                                                                                                                                                                                               |
@@ -67,7 +67,7 @@ If you want to get more features, go PRO with [Material Dashboard 2 PRO React La
 
 
 | React                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | 
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [<img src="https://s3.amazonaws.com/creativetim_bucket/products/71/original/material-dashboard-react.jpg?1638950990" width="480" />](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdpr) |
 
 ## Demo
@@ -695,17 +695,17 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 
 - [Live Preview](https://react-material-dashboard-laravel.creative-tim.com/dashboard?ref=readme-mdr)
-- [Download Page](https://www.creative-tim.com/product/react-material-dashboard-laravel?ref=readme-mdr)
+- [Download Page](https://www.creative-tim.com/product/material-dashboard-react-laravel?ref=readme-mdr)
 - Documentation is [here](https://material-dashboard-react-laravel-docs.creative-tim.com/react/overview/material-dashboard/?ref=readme-mdr)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-mdr)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-mdr)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/react-material-dashboard-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react-laravel/issues)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Material Dashboard React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/react-material-dashboard-laravel?ref=readme-mdr).
+1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-dashboard-react-laravel?ref=readme-mdr).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 

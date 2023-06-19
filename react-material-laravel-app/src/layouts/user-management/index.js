@@ -26,7 +26,7 @@ const UserManagement = () => {
       <MDAlert mt={2} color="dark">
         <MDTypography variant="body2" color="white" fontWeight="medium">
           This is a PRO feature. Click
-          <a href="https://www.creative-tim.com/product/react-material-dashboard-pro-laravel" target="_blank" style={{color: '#1A73E8'}}>
+          <a href="https://www.creative-tim.com/product/material-dashboard-pro-react-laravel" target="_blank" style={{color: '#1A73E8'}}>
             &nbsp;here&nbsp;
           </a>
           to see the PRO version

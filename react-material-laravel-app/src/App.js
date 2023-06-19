@@ -214,7 +214,7 @@ export default function App() {
           <meta property="og:type" content="article" />
           <meta
             property="og:url"
-            content="https://www.creative-tim.com/live/react-material-dashboard-laravel/"
+            content="https://www.creative-tim.com/live/material-dashboard-react-laravel/"
           />
           <meta
             property="og:image"

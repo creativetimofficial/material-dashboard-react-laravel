@@ -39,7 +39,7 @@ function BasicLayout({ image, children }) {
       <DefaultNavbar
         action={{
           type: "external",
-          route: "https://creative-tim.com/product/react-material-dashboard-laravel",
+          route: "https://creative-tim.com/product/material-dashboard-react-laravel",
           label: "free download",
           color: "dark",
         }}
