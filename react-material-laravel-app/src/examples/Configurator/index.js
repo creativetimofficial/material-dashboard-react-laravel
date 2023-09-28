@@ -304,7 +304,7 @@ function Configurator() {
             data-icon="octicon-star"
             data-size="large"
             data-show-count="true"
-            aria-label="Star creativetimofficial/material-dashboard-react-laravel on GitHub"
+            aria-label="Star creativetimofficial/react-material-dashboard-laravel on GitHub"
           >
             Star
           </GitHubButton>
@@ -318,7 +318,7 @@ function Configurator() {
             <MDBox mr={1.5}>
               <MDButton
                 component={Link}
-                href="//twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20React%20with%20Laravel%20JSON:API%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-dashboard-react-laravel"
+                href="//twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20React%20with%20Laravel%20JSON:API%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Freact-material-dashboard-laravel"
                 target="_blank"
                 rel="noreferrer"
                 color="dark"
