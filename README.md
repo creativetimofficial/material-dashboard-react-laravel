@@ -89,8 +89,7 @@ The Laravel JSON:API backend project requires a working Apache/Nginx local envir
 If you don't already have a local development environment, use one of the following links:
 
 - Windows: [How to install WAMP on Windows](https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows)
-- Linux: [How to install LAMP on Linux](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04)
-- Mac: [How to install MAMP on MAC](https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/)
+- Linux & Mac: [How to install LAMP on Linux & Mac](https://updivision.com/blog/post/guide-what-is-lamp-and-how-to-install-it-on-ubuntu-and-macos)
 
 Install Composer: https://getcomposer.org/doc/00-intro.md
 
