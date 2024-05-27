@@ -8,3 +8,6 @@ All notable changes to `React Material Dashboard Laravel` will be documented in 
 - Register
 - Forgot password
 - Profile edit
+
+## [1.1.0]
+### Update to Laravel 11.x
